@@ -1,7 +1,8 @@
-This the solution by myself of the FreeCodeCamp course: Scientific Computing with Python
+This the solution by myself of the FreeCodeCamp course: Scientific Computing with Python.
 Everyone can use this for the references for the solution of project
 
 Introduction to Scientific Computing with Python
+
 Welcome to the Scientific Computing with Python course on FreeCodeCamp! 
 This course is designed to equip you with the skills and knowledge necessary to leverage Python for scientific and numerical computing. 
 Whether you are a beginner or an experienced developer looking to expand your toolkit, this course will guide you through the essential concepts and practical applications of Python in the realm of scientific computing.
