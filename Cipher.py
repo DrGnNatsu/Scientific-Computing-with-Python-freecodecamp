@@ -33,7 +33,6 @@ def encrypt(message, key):
 def decrypt(message, key):
     return vigenere(message, key, -1)
 
-awddawsdawsda
 if __name__ == '__main__':
     text = 'mrttaqrhknsw ih puggrur'
     custom_key = 'python'
